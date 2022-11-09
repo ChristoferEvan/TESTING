@@ -24,6 +24,8 @@ public class LearnJava2 {
 			System.out.println("");
 		}
 		System.out.println("Total pembayaran " + Total);
+		
+		asdujfdjasbf
 
 	}
 
